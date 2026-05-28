@@ -30,9 +30,9 @@ export default function Home() {
 
           {/* Right Actions */}
           <div className="flex items-center space-x-6 text-sm font-bold">
-            <a href="#login" className="hidden sm:block text-neutral-500 dark:text-neutral-400 hover:text-black dark:hover:text-white transition-colors duration-200 uppercase tracking-widest text-xs">
+            {/* <a href="#login" className="hidden sm:block text-neutral-500 dark:text-neutral-400 hover:text-black dark:hover:text-white transition-colors duration-200 uppercase tracking-widest text-xs">
               Log In
-            </a>
+            </a> */}
             <a href="#start" className="border-2 border-black dark:border-white text-black dark:text-white px-5 py-2 rounded-full hover:bg-black dark:hover:bg-white hover:text-white dark:hover:text-black transition-all duration-300 uppercase tracking-widest text-xs">
               Get Started
             </a>
